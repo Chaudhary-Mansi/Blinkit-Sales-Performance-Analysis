@@ -19,10 +19,10 @@ Overall Performance: Blinkit demonstrates strong sales performance with a total 
 
 ## Sales Trends and Distribution:
 
-**Outlet Size:** Medium-sized outlets contribute the most to sales, suggesting a potential focus on this segment.
-**Location:** Tier 3 cities drive the highest sales, indicating strong market penetration in these regions.
-**Item Types:** Fruits and Vegetables, and Snack Foods are the top-selling categories.
-**Fat Content:** Low-fat items exhibit higher sales than regular fat items.
+**-** **Outlet Size:** Medium-sized outlets contribute the most to sales, suggesting a potential focus on this segment.
+**- **Location:** Tier 3 cities drive the highest sales, indicating strong market penetration in these regions.
+**-** **Item Types:** Fruits and Vegetables, and Snack Foods are the top-selling categories.
+**-** **Fat Content:** Low-fat items exhibit higher sales than regular fat items.
 
 ## Outlet Performance:
 
