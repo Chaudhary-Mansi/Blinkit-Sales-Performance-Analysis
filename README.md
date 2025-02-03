@@ -1,6 +1,24 @@
 # Blinkit-Sales-Performance-Analysis
 
-This repository contains the analysis of Blinkit's sales performance, customer satisfaction, and inventory distribution using data visualization and key performance indicators (KPIs).
+📌 Overview
+
+This repository contains an analysis of Blinkit Sales Data using Power BI. The dataset provides insights into sales trends, customer behavior, product performance, and other key metrics.
+
+📂 Dataset
+
+File Name: Blinkit Sales Analysis.pbix
+
+Format: Power BI Report
+
+Source: Blinkit Sales Data
+
+Contents: Sales transactions, product details, customer demographics, and revenue insights.
+
+🛠 Tools & Technologies
+
+Power BI – For data visualization and reporting.
+
+Data Cleaning & Transformation – Handled within Power BI.
 
 ## Business Requirements:
 
@@ -36,9 +54,11 @@ Overall Performance: Blinkit demonstrates strong sales performance with a total 
 **Enhance Product Mix:** Promote high-selling categories (Fruits and Vegetables, Snack Foods) and investigate strategies to improve sales in underperforming categories (Seafood, Breakfast, Starchy Foods).
 **Leverage Supermarket Type 1 Success:** Identify and replicate the factors driving the success of Supermarket Type 1 outlets across other outlet types.
 
-## Recommendations:
 
-Conduct further analysis on the reasons behind the 2015 peak in outlet establishment.
-Investigate the factors contributing to the success of Supermarket Type 1 outlets.
-Analyze the reasons for low sales in certain product categories.
-Consider targeted marketing campaigns to promote specific product categories or outlets.
+📌 Future Enhancements
+
+Adding predictive analysis for sales forecasting.
+
+Incorporating customer segmentation insights.
+
+Expanding the dataset with regional sales data.
