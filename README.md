@@ -64,3 +64,9 @@ Adding predictive analysis for sales forecasting.
 Incorporating customer segmentation insights.
 
 Expanding the dataset with regional sales data.
+
+
+![Blinkit Dashboard](https://github.com/user-attachments/assets/78f7521a-1b96-4841-8438-159e4e6241cd)
+
+
+
