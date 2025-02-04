@@ -31,7 +31,7 @@ Conduct a comprehensive analysis of Blinkit’s sales performance, customer sati
 **Number of Items:** The total count of different items sold.
 **Average Rating:** The average customer rating for items sold.
 
-## Analysis:
+## Analysis:( a "href=https://github.com/Chaudhary-Mansi/Blinkit-Sales-Performance-Analysis/blob/main/Blinkit%20Dashboard.png"> Dashboard</a> )
 
 Overall Performance: Blinkit demonstrates strong sales performance with a total sales figure of $1.20M and an average sales value of $141, indicating healthy customer spending. The sale of 8523 items reflects significant transaction volume, and an average rating of 3.9 suggests generally satisfied customers.
 
