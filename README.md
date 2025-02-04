@@ -4,7 +4,7 @@
 
 This repository contains an analysis of Blinkit Sales Data using Power BI. The dataset provides insights into sales trends, customer behavior, product performance, and other key metrics.
 
-📂 Dataset
+📂 Dataset( <a href="https://github.com/Chaudhary-Mansi/Blinkit-Sales-Performance-Analysis/blob/main/BlinkIT%20Grocery%20Data.xlsx">Blinkit Grocery Data</a> )
 
 File Name: Blinkit Sales Analysis.pbix
 
